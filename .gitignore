@@ -6,3 +6,6 @@ player_skins
 players/*
 auth.txt
 ipban.txt
+map.sqlite-journal
+env_meta.txt
+env_meta_backup.txt
